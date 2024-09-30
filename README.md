@@ -28,7 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 [Portfolio](https://portfolio-webapp.vercel.app/)
 
-### APP Screenshot
+### APP Screenshots
 
 #### Desktop View
 
