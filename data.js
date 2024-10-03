@@ -38,7 +38,7 @@ export const data = [
   {
     id: 2,
     name: "development",
-    title: "Development",
+    title: "Development Environment",
     desc: "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
     photo: "dev.jpeg",
     longDesc:
