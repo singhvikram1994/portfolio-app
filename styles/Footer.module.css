@@ -7,6 +7,9 @@
   font-size: 18px;
   padding: 50px;
 }
+.home-100 {
+  width: 100%;  
+}
 
 .title {
   font-weight: 400;
