@@ -7,7 +7,7 @@ export const data = [
     video: "Avocado.mp4",
     photo: "asdasd.png",
     longDesc:
-      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
+      "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library and it will popup. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
     images: [
       {
         id: 1,
